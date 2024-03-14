@@ -33,6 +33,8 @@ El script incluye un conjunto de pruebas unitarias. Puede ejecutar estas pruebas
 
 ## Código fuente
 
+```
+```
 
 ## Términos de uso
 
